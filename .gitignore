@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Local cache files
+Source/.vs
+Source/obj
+Source/bin
+Source/*.sln

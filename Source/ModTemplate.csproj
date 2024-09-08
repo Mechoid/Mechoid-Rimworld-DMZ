@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
-		<Authors>Put your name here</Authors>
+		<Authors>Mechoid</Authors>
 
-		<!-- <Copyright>Copyright (c) 2023 authorName</Copyright> --> <!-- Optional copyright field -->
+		<!-- <Copyright>Copyright (c) 2023 Mechoid</Copyright> --> <!-- Optional copyright field -->
 
 		<!-- <Version>1.2.3</Version> --> <!-- Optional. Use this to mark an assembly with a version number of your choice -->
 
